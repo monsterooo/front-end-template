@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { Button } from 'antd';
 import Guide from '@/components/Guide';
 import { trim } from '@/utils/format';
