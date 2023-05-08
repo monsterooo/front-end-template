@@ -19,4 +19,9 @@ export const routes = [
     path: '/table',
     component: './Table',
   },
+  {
+    name: 'Table nextFields 测试',
+    path: '/tableDemo',
+    component: './TableDemo',
+  },
 ]
